@@ -1,0 +1,4 @@
+CNCF opened the door for K3s installations in environments like wind farms, satellites, airplanes, vehicles, and boats. Interest picked up from governments who wanted to use K3s in air-gapped environments and places that would benefit from its minimal attack surface.
+Realizing that what started as an internal project, with a limited scope was now in the hands of the community, Rancher donated K3s to the CNCF. Rancher K3s shortened its name to K3s, and it is the only Kubernetes distribution in the CNCF landscape that is owned by the CNCF.
+K3s is Kubernetes with bloat stripped out and a different backing datastore. That said, it is important to note that K3s is not a fork, as it doesn’t change any of the core Kubernetes functionalities and remains close to native Kubernetes.
+
